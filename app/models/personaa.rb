@@ -1,2 +1,6 @@
 class Personaa < ApplicationRecord
+
+
+
+
 end
