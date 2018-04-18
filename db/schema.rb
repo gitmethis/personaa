@@ -36,7 +36,8 @@ ActiveRecord::Schema.define(version: 20180416185142) do
 
   create_table "users", force: :cascade do |t|
     t.string "username"
-    t.integer "persona_id"
+    t.integer "personaa_id"
+    t.boolean "online"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

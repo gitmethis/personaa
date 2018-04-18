@@ -2,8 +2,8 @@ class CreateUsers < ActiveRecord::Migration[5.1]
   def change
     create_table :users do |t|
       t.string :username
-      t.integer :persona_id
-
+      t.integer :personaa_id
+      t.boolean :online
       t.timestamps
     end
   end
