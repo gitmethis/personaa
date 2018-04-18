@@ -11,7 +11,7 @@ god = Personaa.create(
   ability4: "Spiritual Focus"
 )
 lucifer = Personaa.create(
-  name: "God",
+  name: "Lucifer",
   url: "/src/images/lucifer.png",
   strength: 0,
   agility: 0,
@@ -23,7 +23,7 @@ lucifer = Personaa.create(
   ability4: "Blazing Hell"
 )
 oberon = Personaa.create(
-  name: "God",
+  name: "Oberon",
   url: "/src/images/oberon.png",
   strength: 0,
   agility: 0,
@@ -34,8 +34,8 @@ oberon = Personaa.create(
   ability3: "Grydyne",
   ability4: "Life Lift"
 )
-unicorn = Personaa.new(
-  name: "God",
+unicorn = Personaa.create(
+  name: "Unicorn",
   url: "/src/images/unicorn.png",
   strength: 0,
   agility: 0,
@@ -46,8 +46,8 @@ unicorn = Personaa.new(
   ability3: "Dia",
   ability4: "Amrita"
 )
-arahabaki = Personaa.new(
-  name: "God",
+arahabaki = Personaa.create(
+  name: "Arahabaki",
   url: "/src/images/arahabaki.png",
   strength: 0,
   agility: 0,
