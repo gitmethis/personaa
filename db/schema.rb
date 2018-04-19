@@ -15,6 +15,9 @@ ActiveRecord::Schema.define(version: 20180416185142) do
   create_table "battles", force: :cascade do |t|
     t.integer "user1_id"
     t.integer "user2_id"
+    t.boolean "request"
+    t.integer "user1_hp"
+    t.integer "user2_hp"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
