@@ -1,6 +1,6 @@
 god = Personaa.create(
   name: "God",
-  url: "/src/images/god.png",
+  url: "src/images/god.png",
   strength: 0,
   agility: 0,
   magic: 0,
@@ -12,7 +12,7 @@ god = Personaa.create(
 )
 lucifer = Personaa.create(
   name: "Lucifer",
-  url: "/src/images/lucifer.png",
+  url: "src/images/lucifer.png",
   strength: 0,
   agility: 0,
   magic: 0,
@@ -24,7 +24,7 @@ lucifer = Personaa.create(
 )
 oberon = Personaa.create(
   name: "Oberon",
-  url: "/src/images/oberon.png",
+  url: "src/images/oberon.png",
   strength: 0,
   agility: 0,
   magic: 0,
@@ -36,7 +36,7 @@ oberon = Personaa.create(
 )
 unicorn = Personaa.create(
   name: "Unicorn",
-  url: "/src/images/unicorn.png",
+  url: "src/images/unicorn.png",
   strength: 0,
   agility: 0,
   magic: 0,
@@ -48,7 +48,7 @@ unicorn = Personaa.create(
 )
 arahabaki = Personaa.create(
   name: "Arahabaki",
-  url: "/src/images/arahabaki.png",
+  url: "src/images/arahabaki.png",
   strength: 0,
   agility: 0,
   magic: 0,
