@@ -1,24 +1,13 @@
 # README
+# Persona Imitation Game - School Project (Back-End)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Introduction
+Based on the popular Atlus game, Shin Megami Tensei, players answer a questionnaire which determines their distinct personas and challenge a computer-controlled persona. 
 
-Things you may want to cover:
 
-* Ruby version
+### Supported Platforms
+- Windows
+- MAC 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Made With:
+- HTML, CSS, JavaScript, Ruby on Rails
