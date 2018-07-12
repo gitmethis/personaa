@@ -1,4 +1,3 @@
-# README
 # Persona Imitation Game - School Project (Back-End)
 
 ### Introduction
